@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse;
+  border: 1px solid #999;
+}
+
+.generic-table {
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+td,
+th {
+  padding: 0.5rem;
+  text-align: left;
+}

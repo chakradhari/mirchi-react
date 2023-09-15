@@ -1,4 +1,16 @@
-.App {
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #232323;
+  background-color: #fff;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -37,3 +49,8 @@
     transform: translateY(0px);
   }
 }
+
+.display-table-container {
+  display: flex;
+  flex-direction: column;
+} */
